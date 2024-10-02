@@ -1,0 +1,1 @@
+dano_nave = 1
